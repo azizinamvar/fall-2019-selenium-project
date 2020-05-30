@@ -1,5 +1,6 @@
 .idea
-fall-2019-selenium-project.iml
-pom.xml
-.gitignore
+target
+*.iml
+*.Ds-Stor
+test-output
 
